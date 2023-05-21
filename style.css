@@ -1,0 +1,14 @@
+main {
+    background-image: url(pexels-lara-jameson-8828454.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.bord {
+    cursor: pointer;
+}
+i{
+    font-size:2em;
+    cursor: pointer;
+}
